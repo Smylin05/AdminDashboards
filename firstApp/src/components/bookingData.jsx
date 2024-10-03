@@ -1,0 +1,81 @@
+const bookings = [
+    {
+        BookingId: 'B001',
+        TotalPassengers: 2,
+        BookingDate: '2024-10-01',
+        TotalAmount: '$200.00',
+        BookingStatus: 'Confirmed',
+    },
+    {
+        BookingId: 'B002',
+        TotalPassengers: 1,
+        BookingDate: '2024-10-02',
+        TotalAmount: '$100.00',
+        BookingStatus: 'Pending',
+    },
+    {
+        BookingId: 'B003',
+        TotalPassengers: 3,
+        BookingDate: '2024-10-03',
+        TotalAmount: '$300.00',
+        BookingStatus: 'Cancelled',
+    },
+    {
+        BookingId: 'B004',
+        TotalPassengers: 4,
+        BookingDate: '2024-10-04',
+        TotalAmount: '$400.00',
+        BookingStatus: 'Confirmed',
+    },
+    {
+        BookingId: 'B005',
+        TotalPassengers: 2,
+        BookingDate: '2024-10-05',
+        TotalAmount: '$150.00',
+        BookingStatus: 'Pending',
+    },
+    {
+        BookingId: 'B006',
+        TotalPassengers: 5,
+        BookingDate: '2024-10-06',
+        TotalAmount: '$500.00',
+        BookingStatus: 'Confirmed',
+    },
+    {
+        BookingId: 'B007',
+        TotalPassengers: 1,
+        BookingDate: '2024-10-07',
+        TotalAmount: '$75.00',
+        BookingStatus: 'Cancelled',
+    },
+    {
+        BookingId: 'B008',
+        TotalPassengers: 3,
+        BookingDate: '2024-10-08',
+        TotalAmount: '$225.00',
+        BookingStatus: 'Confirmed',
+    },
+    {
+        BookingId: 'B009',
+        TotalPassengers: 2,
+        BookingDate: '2024-10-09',
+        TotalAmount: '$180.00',
+        BookingStatus: 'Pending',
+    },
+    {
+        BookingId: 'B010',
+        TotalPassengers: 4,
+        BookingDate: '2024-10-10',
+        TotalAmount: '$350.00',
+        BookingStatus: 'Confirmed',
+    },
+    {
+        BookingId: 'B011',
+        TotalPassengers: 3,
+        BookingDate: '2024-10-11',
+        TotalAmount: '$280.00',
+        BookingStatus: 'Pending',
+    },
+];
+
+export default bookings;
